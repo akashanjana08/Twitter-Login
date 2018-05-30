@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twit-on-twit</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">lFcwC3xrSrpA237esHZft8A5h</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">JyUHgCiGFqakmXl0x1mDAUIc32PGpt0LkX9yndy9fBhcqhIKzw</string>
+</resources>
